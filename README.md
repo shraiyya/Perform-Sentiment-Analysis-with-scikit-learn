@@ -4,3 +4,5 @@ In this project-based course, you will learn the fundamentals of sentiment analy
 Notes: 
 - You will be able to access the cloud desktop 5 times. However, you will be able to access instructions videos as many times as you want. 
 - This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions. 
+
+https://www.coursera.org/learn/scikit-learn-logistic-regression-sentiment-analysis
